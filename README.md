@@ -16,7 +16,7 @@ print("Hola Mundo")
 ```
 
 ## Ejecución
-Con Python 3 instalado, ejecuta en la carpeta del repositorio:
+Con Python instalado, ejecuta en la carpeta del repositorio:
 
 ```bash
 python "Hola mundo.py"
