@@ -1,34 +1,36 @@
 # Hola Mundo en Python
 
 ## Descripción del proyecto
-
-Este repositorio contiene mi primer programa desarrollado en **Python**, como parte de una práctica de iniciación a la programación y al uso de **GitHub**.
-El objetivo es aprender a crear y gestionar repositorios, utilizar archivos README con lenguaje Markdown y ejecutar un programa sencillo.
+Este repositorio contiene un programa sencillo en **Python**, como parte de la tarea PIA01 de Programación de Inteligencia Artificial. El objetivo es aprender a utilizar **GitHub**, crear un repositorio y documentarlo con **Markdown**.
 
 ## Objetivos
-
-- Crear una cuenta en GitHub.
-- Crear mi primer repositorio público.
-- Aprender los conceptos básicos de GitHub.
-- Crear y ejecutar mi primer programa en Python.
+- Crear y gestionar un repositorio en GitHub.
+- Documentar la tarea con un archivo README.md.
+- Crear un programa que muestre un saludo por pantalla.
 
 ## Código del programa
+El archivo [`Hola mundo.py`](Hola%20mundo.py) contiene:
 
-El archivo `hola_mundo.py` contiene el código correspondiente 
+```python
+print("Hola Mundo")
+```
 
 ## Ejecución
+Con Python 3 instalado, ejecuta en la carpeta del repositorio:
 
-Para ejecutar el programa, es necesario tener Python instalado.
+```bash
+python "Hola mundo.py"
+```
+
+En algunos sistemas se utiliza `python3` en lugar de `python`.
 
 **Resultado esperado:**
 
-El resultado tras ejecutar el programa debe ser **Hola Mundo**
+```text
+Hola Mundo
+```
 
 ## Tecnologías utilizadas
-
-- **Python:** lenguaje de programación utilizado.
-- **GitHub:** plataforma para almacenar y gestionar el código.
-
-## Conclusión
-
-Esta práctica representa mi primer contacto con GitHub y me permite aprender los fundamentos de la creación de repositorios, la documentación de proyectos y la ejecución de programas en Python.
+- **Python:** lenguaje de programación.
+- **GitHub:** almacenamiento y gestión del código.
+- **Markdown:** formato de la documentación.
